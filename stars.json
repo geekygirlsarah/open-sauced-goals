@@ -1,7 +1,7 @@
 [
   {
     "full_name": "rahul-anand/Lumos",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26768,
-    "open_issues_count": 401,
+    "stargazers_count": 26789,
+    "open_issues_count": 405,
     "forks_count": 1110
   },
   {
     "full_name": "Aircoookie/WLED",
-    "stargazers_count": 8943,
-    "open_issues_count": 363,
-    "forks_count": 1797
+    "stargazers_count": 8949,
+    "open_issues_count": 364,
+    "forks_count": 1801
   },
   {
     "full_name": "loganmeetsworld/advent-of-code-utils",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "yaelwrites/Big-Ass-Data-Broker-Opt-Out-List",
-    "stargazers_count": 1665,
+    "stargazers_count": 1666,
     "open_issues_count": 0,
     "forks_count": 57
   },
@@ -73,20 +73,20 @@
   },
   {
     "full_name": "id-Software/wolf3d",
-    "stargazers_count": 1718,
+    "stargazers_count": 1719,
     "open_issues_count": 1,
     "forks_count": 374
   },
   {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 8342,
+    "stargazers_count": 8344,
     "open_issues_count": 5,
     "forks_count": 1488
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 59945,
-    "open_issues_count": 710,
+    "stargazers_count": 59959,
+    "open_issues_count": 712,
     "forks_count": 16179
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 29322,
+    "stargazers_count": 29329,
     "open_issues_count": 51,
-    "forks_count": 2565
+    "forks_count": 2564
   },
   {
     "full_name": "mmatyas/openblok",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 53023,
-    "open_issues_count": 1689,
-    "forks_count": 18443
+    "stargazers_count": 53030,
+    "open_issues_count": 1690,
+    "forks_count": 18450
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1837,
     "open_issues_count": 207,
-    "forks_count": 64744
+    "forks_count": 64759
   },
   {
     "full_name": "rubycentral/cfp-app",
@@ -141,7 +141,7 @@
     "full_name": "openaps/oref0",
     "stargazers_count": 393,
     "open_issues_count": 76,
-    "forks_count": 391
+    "forks_count": 392
   },
   {
     "full_name": "openaps/openaps",
@@ -152,7 +152,7 @@
   {
     "full_name": "NightscoutFoundation/xDrip",
     "stargazers_count": 937,
-    "open_issues_count": 206,
+    "open_issues_count": 208,
     "forks_count": 936
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "MycroftAI/enclosure-picroft",
-    "stargazers_count": 737,
+    "stargazers_count": 738,
     "open_issues_count": 19,
     "forks_count": 173
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "MycroftAI/mycroft-skills",
-    "stargazers_count": 688,
+    "stargazers_count": 689,
     "open_issues_count": 83,
-    "forks_count": 889
+    "forks_count": 890
   }
 ]
