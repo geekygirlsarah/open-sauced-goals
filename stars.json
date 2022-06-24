@@ -13,15 +13,15 @@
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 26961,
-    "open_issues_count": 406,
-    "forks_count": 1123
+    "stargazers_count": 26992,
+    "open_issues_count": 411,
+    "forks_count": 1125
   },
   {
     "full_name": "Aircoookie/WLED",
-    "stargazers_count": 9017,
-    "open_issues_count": 369,
-    "forks_count": 1821
+    "stargazers_count": 9030,
+    "open_issues_count": 367,
+    "forks_count": 1822
   },
   {
     "full_name": "loganmeetsworld/advent-of-code-utils",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 5800,
+    "stargazers_count": 5810,
     "open_issues_count": 4,
     "forks_count": 500
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "Shawn-Shan/fawkes",
-    "stargazers_count": 4601,
+    "stargazers_count": 4604,
     "open_issues_count": 20,
     "forks_count": 452
   },
   {
     "full_name": "id-Software/wolf3d",
-    "stargazers_count": 1719,
+    "stargazers_count": 1718,
     "open_issues_count": 1,
     "forks_count": 373
   },
   {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 8383,
+    "stargazers_count": 8406,
     "open_issues_count": 5,
-    "forks_count": 1494
+    "forks_count": 1498
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 60038,
-    "open_issues_count": 716,
-    "forks_count": 16188
+    "stargazers_count": 60053,
+    "open_issues_count": 717,
+    "forks_count": 16189
   },
   {
     "full_name": "adafruit/PyCon2019",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 29451,
+    "stargazers_count": 29624,
     "open_issues_count": 53,
-    "forks_count": 2571
+    "forks_count": 2597
   },
   {
     "full_name": "mmatyas/openblok",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 53497,
-    "open_issues_count": 1649,
-    "forks_count": 18561
+    "stargazers_count": 53522,
+    "open_issues_count": 1621,
+    "forks_count": 18586
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1840,
-    "open_issues_count": 214,
-    "forks_count": 64935
+    "stargazers_count": 1841,
+    "open_issues_count": 215,
+    "forks_count": 64966
   },
   {
     "full_name": "rubycentral/cfp-app",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "NightscoutFoundation/xDrip",
-    "stargazers_count": 944,
+    "stargazers_count": 945,
     "open_issues_count": 206,
     "forks_count": 942
   },
@@ -164,7 +164,7 @@
   {
     "full_name": "MycroftAI/enclosure-picroft",
     "stargazers_count": 739,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 173
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "MycroftAI/mycroft-skills",
-    "stargazers_count": 689,
-    "open_issues_count": 82,
-    "forks_count": 889
+    "stargazers_count": 691,
+    "open_issues_count": 81,
+    "forks_count": 888
   }
 ]
